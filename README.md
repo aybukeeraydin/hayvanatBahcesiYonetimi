@@ -13,7 +13,10 @@ Hayvanat bahçesindeki hayvan listelerinin kontrol altında tutulabilmesi için 
 - İlk olarak XAMPP'a girip Apache ve MySQL'i başlatın.
 - Tarayıcıya girip http://localhost/phpmyadmin/ adresine gidin.
 - Üst kısımda bulunan SQL yazısına basın. zoo_management.sql adlı dosyayı indirip dosyadaki SQL kodlarını kopyalayıp buraya yapıştırın. Sağ alttaki "git" butonuna basın.
-- Projemdeki .php uzantılı tüm kodları indirip bilgisayarınızdaki xampp/htdocs adlı klasöre ekleyin.
-- Tarayıcınızı açıp "http://localhost/zoo_management/" adresine gidin.
-- İlk olarak giriş ekranı açılacak fakat giriş yapabilmek için kayıt olmalısınız.
+- Githubdan projemi zip dosyası olarak indirin. Zip dosyasını açıp içindeki hayvanatBahcesiYonetimi-main klasörünü bilgisayarınızdaki xampp/htdocs adlı klasöre taşıyın.
+- Tarayıcınızı açıp "http://localhost/hayvanatBahcesiYonetimi-main/" adresine gidin.
+- İlk olarak giriş ekranı açılacak fakat giriş yapabilmek için kayıt olmalısınız. Aksi takdirde de zaten kayıt olmanız için karşınıza uyarı metni çıkacak.
 - Kayıt olduktan sonra tekrar sağ üstteki köşeden giriş yapabilirsiniz.
+- Giriş yaptıktan sonra hayvan ekleyip bilgilerini düzenleyebilirsiniz.
+- Eklediğiniz hayvanları silebilirsiniz.
+- Çıkış yap'a bastığınızda da tekrar anasayfaya yani giriş sayfasına yönlendirileceksiniz.
