@@ -1,6 +1,8 @@
 # Hayvanat Bahçesi Yönetim Sistemi
 ## İnternet Sitesi :  
 http://95.130.171.20/~st23360859747/
+## Tanıtım Videosu :  
+https://youtu.be/4dc5fEBUNQo
 ## Site Açıklaması
 Hayvanat bahçesindeki hayvan listelerinin kontrol altında tutulabilmesi için geliştirilen web sitesi.
 ## Özellikler
