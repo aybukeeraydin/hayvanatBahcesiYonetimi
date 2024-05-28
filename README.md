@@ -7,7 +7,7 @@ Hayvanat bahçesindeki hayvan listelerinin kontrol altında tutulabilmesi için 
 - Kayıt olma
 - Şifreli giriş ve oturum yönetimi
 - Hayvan verilerini ekleme, düzenleme, listeleme ve silme
-## Sitenin Kullanımı
+## Sitenin XAMPP ile Kullanımı
 - İlk olarak XAMPP'a girip Apache ve MySQL'i başlatın.
 - Tarayıcıya girip http://localhost/phpmyadmin/ adresine gidin.
 - Üst kısımda bulunan SQL yazısına basın. zoo_management.sql adlı dosyayı indirip dosyadaki SQL kodlarını kopyalayıp buraya yapıştırın. Sağ alttaki "git" butonuna basın.
